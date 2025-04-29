@@ -19,11 +19,15 @@ REQUISITOS PREVIOS
 PASOS PARA INSTALACIÓN LOCAL
 -----------------------------
 
-1. CLONAR EL PROYECTO
-   - GitHub:
+1. CLONAR EL PROYECTO DE GITHUB
+   - Git:
      ```bash
      git clone https://github.com/usuario/repositorio.git
+     ```
+     ```bash
      cd Botanic_Panic/
+     ```
+     ```bash
      code .
      ```
 
