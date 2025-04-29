@@ -8,16 +8,16 @@ Bienvenido/a a **Botanic Panic**, un proyecto de e-commerce dedicado a todos los
 
 ## GUÍA DE INSTALACIÓN.
 
-------------------------
-REQUISITOS PREVIOS
-------------------------
+
+**REQUISITOS PREVIOS**
+
 1. Tener instalado Node.js y npm.
 
 2. (Opcional) Tener instalado Git para clonar el repositorio:
 
------------------------------
-PASOS PARA INSTALACIÓN LOCAL
------------------------------
+
+**PASOS PARA INSTALACIÓN LOCAL**
+
 
 1. CLONAR EL PROYECTO DE GITHUB
    - Git:
