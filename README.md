@@ -2,9 +2,9 @@ Grupo: 04.
 Fecha: 04/05/2025.  
 Proyecto: Botanic Panic.
 
-# 🌿 BOTANIC PANIC 🪴
+# 🌿 BOTANIC PANIC 🪴🚬
 
-Bienvenido/a a **Botanic Panic**, un proyecto de e-commerce dedicado a todos los amantes de las plantas, desde los principiantes hasta los más experimentados coleccionistas. Nuestra objetivo es que encontrar y comprar la planta perfecta para tu espacio sea una experiencia fácil, divertida y llena de verde. 🌿
+Bienvenido/a a **Botanic Panic**, un proyecto de e-commerce dedicado a todos los amantes de las plantas, desde los principiantes hasta los más experimentados coleccionistas. Nuestra objetivo es que encontrar y comprar la planta perfecta para tu espacio sea una experiencia fácil, divertida y llena de verde. 🌿🚬
 
 ## GUÍA DE INSTALACIÓN.
 
